@@ -1,5 +1,14 @@
-### Hi there 👋
-#### Welcome to my GitHub page!
+## Hi there and welcome! 👋
+
+### :pushpin: About Me
+
+I'm Adam Froehlich, a recent software development graduate, specializing in front-end development.<br>
+I enjoy the challenge of finding solutions to problems, and thrive in a team setting.
+
+Outside of tech, I enjoy hiking, reading, playing music (guitar and piano), and developing new skills.<br>
+Currently, I'm learning Spanish and teaching myself to cook.<br>
+
+:computer: Find Me at places like: [LeetCode](https://leetcode.com/adamcfro/)
 
 <!--
 **adamcfro/adamcfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
